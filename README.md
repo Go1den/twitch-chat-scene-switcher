@@ -1,4 +1,4 @@
-# twitch-chat-to-hotkey
+# twitch-chat-scene-switcher
 Takes OBS commands from a Twitch broadcaster's chat and executes them automatically.
 
 Change scenes, start a broadcast, or end a broadcast from your Twitch chat itself.
